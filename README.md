@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0189-rotate-array](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
@@ -28,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/anjaliii210/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
